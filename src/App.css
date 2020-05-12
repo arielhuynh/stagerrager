@@ -6,7 +6,10 @@
 
 .App__Aside {
   width: 50%;
-  background-color: #66DAC7;
+  background-image: url("background.png") ;
+  background-repeat: no-repeat;
+  background-size: 100% ;
+
 }
 
 .App__Form {
